@@ -7,4 +7,3 @@ VALUES (:name, :message, :timestamp)
 --name:get-messages
 -- selects all available messages
 SELECT * FROM guestbook
-
